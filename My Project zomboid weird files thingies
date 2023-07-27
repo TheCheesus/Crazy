@@ -1,4 +1,6 @@
 This is my 64.bat looking very different as you can see.
+
+
 @setlocal enableextensions
 @cd /d "%~dp0"
 SET _JAVA_OPTIONS=
@@ -13,7 +15,15 @@ IF %ERRORLEVEL% NEQ 0 (
 
 PAUSE
 
+
+
+
+
+
+
 This is my 32.bat altough it does not look similar i thought it did at the time as i was writing that comment.
+
+
 @setlocal enableextensions
 @cd /d "%~dp0"
 SET _JAVA_OPTIONS=
